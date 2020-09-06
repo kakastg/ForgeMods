@@ -1,6 +1,9 @@
 {
   "item.tutorial.ruby": "Ruby",
   "block.tutorial.ruby_block": "Ruby Block",
-  "itemGroup.TutorialTab": "Tutorial Items"
-
+  "itemGroup.TutorialTab": "Tutorial Items",
+  "item.tutorial.ruby_sword": "Ruby Sword",
+  "item.tutorial.ruby_axe": "Ruby Axe",
+  "item.tutorial.ruby_pickaxe": "Ruby Pickaxe",
+  "item.tutorial.ruby_shovel": "Ruby Shovel"
 }
